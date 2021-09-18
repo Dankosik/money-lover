@@ -1,7 +1,6 @@
 package ru.dankos.moneylover.service;
 
 import ru.dankos.moneylover.domain.Category;
-import ru.dankos.moneylover.dto.CategoryDto;
 
 import java.util.List;
 
